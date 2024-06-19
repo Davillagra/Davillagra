@@ -11,7 +11,7 @@ Soy desarrollador Full Stack graduado en CoderHose y actualmente estoy haciendo 
 - **Testing:** Jasmine, Jest
 - **Backend:** Node.js, NestJS, Express
 - **Bases de Datos:** MongoDB (Mongoose), PostgreSQL (TypeORM), Firebase
-- **Idiomas:** Español (Native), Ingles (b2)
+- **Idiomas:** Español (Native), Ingles (Upper Intermediate)
 
 ## 📫 Contacto
 
