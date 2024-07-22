@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sebastián Villagra
 
-¡Hola! Soy Sebastian Villagra y vivo en argentina. Estudio ingenieria en sistemas lo que me dio muchas herramientas y conocimientos que luego usé al entrar de fondo a la programacion.
+Vivo en argentina. Estudio ingenieria en sistemas lo que me dio muchas herramientas y conocimientos que luego usé al entrar de fondo a la programacion.
 
 Soy desarrollador Full Stack graduado en CoderHose y actualmente estoy haciendo el bootcamp de Henry con orientacion en Back-end
 
