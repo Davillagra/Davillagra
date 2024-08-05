@@ -2,7 +2,7 @@
 
 Vivo en argentina. Estudio ingenieria en sistemas lo que me dio muchas herramientas y conocimientos que luego usé al entrar de fondo a la programacion.
 
-Soy desarrollador Full Stack graduado en CoderHose y actualmente estoy haciendo el bootcamp de Henry con orientacion en Back-end
+Soy desarrollador Full Stack graduado en CoderHose y Henry con orientacion en Back-end
 
 ## 🚀 Tecnologías y Herramientas
 
